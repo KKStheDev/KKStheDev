@@ -8,7 +8,7 @@
 <p align="left">
 <a href="http://youtube.com/@RealSikes" target="blank"><img align="center" src="https://i.imgur.com/UeUsCDK.png" alt="" height="30" /></a>
 <a href="https://www.mecabricks.com/en/user/legome_kks" target="blank"><img align="center" src="https://stage.mecabricks.com/safari-pinned-tab.svg" alt="" height="30" /></a>
-<a href="https://www.instagram.com/boi_chan13/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRD5quFonxwpLuutqzR6YBQs6sJup_FSOKD7HkoZ7Bw&s" alt="" height="30" /></a>
+<a href="https://www.instagram.com/boi_chan13/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="30" /></a>
 </p>
 
 ### I'm interested in blender coding!(python)
