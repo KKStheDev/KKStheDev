@@ -6,7 +6,7 @@
 ### My Socials:
 
 <p align="left">
-<a href="http://youtube.com/@RealSikes" target="blank"><img align="center" src="https://i.imgur.com/UeUsCDK.png" alt="" height="30" /></a>
+<a href="http://youtube.com/@RealSikes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_light_icon_%282017%29.svg/1454px-YouTube_light_icon_%282017%29.svg.png" alt="" height="30" /></a>
 <a href="https://www.mecabricks.com/en/user/legome_kks" target="blank"><img align="center" src="https://stage.mecabricks.com/safari-pinned-tab.svg" alt="" height="30" /></a>
 <a href="https://www.instagram.com/boi_chan13/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="30" /></a>
 </p>
